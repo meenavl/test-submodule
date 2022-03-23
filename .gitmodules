@@ -5,3 +5,4 @@
 [submodule "test-projectb"]
 	path = test-projectb
 	url = https://github.com/meenavl/test-projectb.git
+    branch = develop
