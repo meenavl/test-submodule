@@ -2,3 +2,6 @@
 	path = P1
 	url = git@github.com:meenavl/submodule-projecta.git
 	branch = develop
+[submodule "test-projectb"]
+	path = test-projectb
+	url = https://github.com/meenavl/test-projectb.git
